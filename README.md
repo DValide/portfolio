@@ -1,8 +1,8 @@
 # Dolores Valide - Data Scientist | Data Analyst | Data enthusiastic
 
- La data est la valeur montante de cette décennie, et si je vous aidais à la valoriser?!
-  Salut, je suis Dolores Valide une data scientist qui peut travailler sur des sujets de data science
-  mais tout aussi bien sur des sujets de data analyse, business intelligence.
+ La data est la valeur montante de cette décennie, et si je vous aidais à valoriser la votre ?!
+  Salut, je suis Dolores Valide, data scientist qui peut travailler sur vos sujets de data science
+  mais tout aussi bien sur vos sujets de data analyse, ou encore de business intelligence.
   Ici vous trouverez mon parcours et mes projets, je vous dévoile ma passion pour la data. 
 
 ## Table des Matières
