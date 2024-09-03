@@ -1,8 +1,9 @@
-title: Dolores Valide
-logo: /assets/20240801_112349-removebg-preview.png
-description: Salut, je suis Dolores Valide une data scientist qui peut travailler sur des sujets de data science
-mais tout aussi bien sur des sujets de data analyse.
-Ici vous trouverez mon parcours, mes projets et je vous dévoile ma passion pour la data. 
-La data est la valeur montante de cette décennie
+title: "Dolores Valide"
+logo: "/assets/20240801_112349-removebg-preview.png"
+description: >
+ Salut, je suis Dolores Valide une data scientist qui peut travailler sur des sujets de data science
+ mais tout aussi bien sur des sujets de data analyse.
+ Ici vous trouverez mon parcours, mes projets et je vous dévoile ma passion pour la data. 
+ La data est la valeur montante de cette décennie
 show_downloads: true
 theme: jekyll-theme-minimal
