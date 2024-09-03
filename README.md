@@ -27,47 +27,13 @@
 
 | **Data Engineering**  | **Data Analysis**  | **Data Computing & Bases de Données**  |
 |-----------------------|--------------------|----------------------------------------|
-| **Python** ![Python Logo](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | **Kibana** ![Kibana Logo](https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white) | **Scikit-Learn** ![Scikit-Learn Logo](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
-| **SQL** ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white) | **Power BI** ![Power BI Logo](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) | **TensorFlow** ![TensorFlow Logo](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
-| **AWS** ![AWS Logo](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) | **Excel** ![Excel Logo](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | **MySQL** ![MySQL Logo](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| **Hadoop** ![Hadoop Logo](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black) | **Pandas** ![Pandas Logo](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) | **PostgreSQL** ![PostgreSQL Logo](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Pyspark** ![Pyspark Logo](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white) | **NumPy** ![NumPy Logo](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | |
-| **Docker** ![Docker Logo](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | **Matplotlib** ![Matplotlib Logo](https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white) | |
-| **Git** ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | **Seaborn** ![Seaborn Logo](https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white) | |
-
-
-
-## Comptétences techniques
-### Langages de programmation 
-- **Python** ![Python Logo](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- **SQL** ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
-
-### Machine-Learning
-- **Scikit-Learn** ![Scikit-Learn Logo](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-- **TensorFlow** ![TensorFlow Logo](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
-### Analyse de données 
-- **Pandas** ![Pandas Logo](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-- **NumPy** ![NumPy Logo](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-- **Matplotlib** ![Matplotlib Logo](https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white)
-- **Seaborn** ![Seaborn Logo](https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white)
-
-### Base de données
-- **MySQL** ![MySQL Logo](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- **PostgreSQL** ![PostgreSQL Logo](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-
-### Data Engineering  
-- **Hadoop** ![Hadoop Logo](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black)
-- **Pyspark** ![Pyspark Logo](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
-- **Docker** ![Docker Logo](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-- **Git** ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- **AWS** ![AWS Logo](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-
-### Data visualisation
-- **Kibana** ![Kibana Logo](https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white)
-- **Power BI** ![Power BI Logo](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
-- **Excel** ![Excel Logo](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-
+| ![Python Logo](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Kibana Logo](https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white) | ![Scikit-Learn Logo](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
+| ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white) | ![Power BI Logo](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) |![TensorFlow Logo](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| ![AWS Logo](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |![Excel Logo](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | ![MySQL Logo](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| ![Hadoop Logo](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black) | ![Pandas Logo](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) | ![PostgreSQL Logo](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| ![Pyspark Logo](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white) | ![NumPy Logo](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | |
+| ![Docker Logo](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![Matplotlib Logo](https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white) | |
+| ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Seaborn Logo](https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white) | |
 
 ## Comptétences douces
  - Nettoyage de données
