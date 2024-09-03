@@ -23,6 +23,9 @@
     - [Projet 5 : Projet Avancé (Deep Learning/NLP)](#projet-5--projet-avancé-deep-learningnlp)
 - [Contact](#contact)
 
+## À propos de moi
+
+
 ## Compétences Techniques
 
 | **Data Engineering**  | **Data Analysis**  | **Data Computing & Bases de Données**  |
@@ -35,38 +38,42 @@
 | ![Docker Logo](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![Matplotlib Logo](https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white) | |
 | ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Seaborn Logo](https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white) | |
 
-## Comptétences douces
+## Comptétences générales
+ - Modélisation de données
  - Nettoyage de données
  - Feature engineering
  - Modélisation prédictive
- - Agile
  - Apprentissage automatique 
  - Visualisation de données  
  - Vulgarisation
+ - Agile
 
+## Publications
 
-### Expérience Professionnelle
-- **[Poste actuel ou précédent]** - [Entreprise], [Période]
-- **Responsabilités clés :**
-    - [Responsabilité 1]
-    - [Responsabilité 2]
+**Medium :** [Data Science vs. Trading Algorithmique : Un Duel de Titans Technologiques](https://medium.com/@valide.dolores/data-science-vs-trading-algorithmique-un-duel-de-titans-technologiques-0d6acab938b6)
    
 ## Projets
 
 ### Projet 1 : Business Intelligence (BI)
 - **Description :** Ce projet explore les données de ventes de SmartFun Telecom Ltd,notemment les données de ventes de forfait téléphoniques, fournissant des insights clés grâce à des visualisations et des analyses statistiques. J'ai utilisé des techniques d'EDA pour découvrir des tendances et des relations cachées dans les données.
 - **Compétences :** Power BI
-- ![Aperçu du rapport Power BI](assets/rapport_smart_fun.png)
-- ![Aperçu du rapport Power BI](assets/Analyse_temporelle.png)
-- ![Aperçu du rapport Power BI](assets/analyse_spatiale.png)
-- ![Aperçu du rapport Power BI](assets/Analyse_comparative.png)
+ ![Aperçu du rapport Power BI](assets/img/rapport_smart_fun.png)
+ ![Aperçu du rapport Power BI](assets/img/analyse_temporelle.png)
+ ![Aperçu du rapport Power BI](assets/img/analyse_spatiale.png)
+ ![Aperçu du rapport Power BI](assets/img/Analyse_comparative.png)
 Ce rapport montre les ventes par région, produit, et période, permettant une vue d'ensemble des performances commerciales.
-- **Lien vers le projet :** [Lien GitHub ou Notebook]
 
-### Projet 2 : Machine Learning Supervisé
-- **Description :** Dans ce projet, j'ai construit un modèle de [régression/classification] pour prédire [cible] en utilisant [Dataset]. Le modèle a été évalué à l'aide de métriques comme [métrique 1], [métrique 2].
-- **Compétences :** Scikit-learn, Feature Engineering, Validation Croisée
-- **Lien vers le projet :** [Lien GitHub ou Notebook]
+### Projet 2 : Business Intelligence (BI)
+- **Description :** Ce projet explore les données de recouvrement de créances, fournissant les KPI clés grâce à des visualisations et des analyses statistiques. 
+- **Compétences :** Power BI
+- ![Aperçu du rapport Power BI](assets/img/KPI_recouvrement.png)
+  
+
+### Projet 3 : Machine Learning Supervisé
+- **Description :** Dans ce projet, j'ai construit un modèle de régression pour prédire la consommation en énergie de bâtiments en utilisant. Le modèle a été évalué à l'aide de métriques comme [RMSE], [R^2], [MAE]. Différents algorithmes ont été testés : [SVR], [RandomForest], [Elastic Net], [LGBM]
+- **Compétences :** EDA, Scikit-learn, Feature Engineering, Tunning de paramètres, Validation croisée
+- ![Aperçu des résultats de la régression](assets/img/projet_3.png)
+- **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/OC-DS-P4-Anticipez-les-besoins-en-consommation-de-batiments/tree/f1629b960ff2629a1dfc09eb2946cf1e948696bb)
 
 ### Projet 3 : Machine Learning Non Supervisé
 - **Description :** Ce projet implique le clustering de [données] en groupes significatifs à l'aide de [K-means/DBSCAN/PCA]. L'analyse a permis d'identifier [insight principal].
@@ -90,7 +97,6 @@ Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hési
 - **Email :** [valide.dolores@gmail.com](mailto:valide.dolores@gmail.com)
 - **LinkedIn :** [LinkedIn](www.linkedin.com/in/d-valide)
 - **GitHub :** [GitHub](https://github.com/DValide)
-- **CV :** 
-### Expériences 
-## Projet personnel  - 2024
+- **CV :** ![Aperçu du CV](assets/documents/Cv_data_science_gen.pdf)
+
 
