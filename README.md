@@ -6,6 +6,14 @@
   mais tout aussi bien sur vos sujets de data analyse, ou encore de business intelligence.\
   Ici vous trouverez mon parcours et mes projets, je vous dévoile ma passion pour la data. 
 
+<p align="left">
+  <a href="mailto:valide.dolores@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/d_valide"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://github.com/Dvalide"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="assets/documents/Cv_data_science_gen.pdf"><img src="https://img.shields.io/badge/-CV-4285F4?style=flat-square&logo=Google%20Drive&logoColor=white"/></a>
+</p>
+
+
 ## Table des Matières
 - [Ce que je peux vous apporter](#ce_que_je_peux_vous_apporter)
 - [Compétences Techniques](#compétences-techniques)
@@ -98,11 +106,11 @@ Ce rapport montre les ventes par région, produit, et période, permettant une v
 
 ## Contact
 
-Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter via les plateformes suivantes :
+Je suis toujours ouverte à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter via les plateformes suivantes :
 
 - **Email :** [valide.dolores@gmail.com](mailto:valide.dolores@gmail.com)
 - **LinkedIn :** [LinkedIn](www.linkedin.com/in/d-valide)
 - **GitHub :** [GitHub](https://github.com/DValide)
-- **CV :** ![Aperçu du CV](assets/documents/Cv_data_science_gen.pdf)
+- **CV :** [Aperçu du CV](assets/documents/Cv_data_science_gen.pdf)
 
 
