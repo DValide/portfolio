@@ -109,9 +109,9 @@ Ce rapport montre les ventes par région, produit, et période, permettant une v
 
 Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter via les plateformes suivantes :
 
-- **Email :** [valide.dolores@gmail.com]
-- **LinkedIn :** [www.linkedin.com/in/d-valide]
-- **GitHub :** [https://github.com/DValide]
+- **Email :** [valide.dolores@gmail.com](mailto:valide.dolores@gmail.com)
+- **LinkedIn :** [LinkedIn](www.linkedin.com/in/d-valide)
+- **GitHub :** [GitHub](https://github.com/DValide)
 ### Expériences 
 ## Projet personnel  - 2024
 
