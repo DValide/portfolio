@@ -1,7 +1,9 @@
 # Dolores Valide - Data Scientist | Data Analyst | Data enthusiastic
 
-Bienvenue sur mon portfolio. Je suis une Data Scientist & Analyst passionné par l'exploration des données et le développement de modèles prédictifs.
-Voici une sélection de mes projets qui démontrent mes compétences en data science, machine learning et visualisation de données.
+ La data est la valeur montante de cette décennie, et si je vous aidais à la valoriser?!
+  Salut, je suis Dolores Valide une data scientist qui peut travailler sur des sujets de data science
+  mais tout aussi bien sur des sujets de data analyse, business intelligence.
+  Ici vous trouverez mon parcours et mes projets, je vous dévoile ma passion pour la data. 
 
 ## Table des Matières
 - [À propos de moi](#à-propos-de-moi)
