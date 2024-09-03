@@ -20,6 +20,8 @@
     - [Projet 6 : Projet Avancé (Deep Learning/NLP)](#projet-6--projet-avancé-deep-learningnlp)
 - [Contact](#contact)
 
+[English Version](./index_en.md)
+
 ## Ce que je peux vous apporter
 
 ✅**Détection d'Insights**
