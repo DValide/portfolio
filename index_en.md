@@ -102,3 +102,4 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 - **LinkedIn:** [LinkedIn](www.linkedin.com/in/d_valide)
 - **GitHub:** [GitHub](https://github.com/Dvalide)
 - **Resume:** ![Resume Overview](assets/documents/Cv_data_science_gen.pdf)
+  
