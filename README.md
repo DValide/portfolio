@@ -9,12 +9,6 @@
 ## Table des Matières
 - [Ce que je peux vous apporter](#ce_que_je_peux_vous_apporter)
 - [Compétences Techniques](#compétences-techniques)
-    - [Langages de programmation](#langages-de-programmation)
-    - [Machine-learning](#machine-learning)
-    - [Analyse de données](#analyse-de-données)
-    - [Base de données](#base-de-données)
-    - [Data Engineering](#data-engineering)
-    - [Data visualisation](#data-visualisation)
 - [Compétences générales](#compétences-generales)
 - [Publications](#publications)
 - [Projets](#projets)
