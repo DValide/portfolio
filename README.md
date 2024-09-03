@@ -1,12 +1,13 @@
 # Dolores Valide - Data Scientist | Data Analyst | Data enthusiastic
 
- La data est la valeur montante de cette décennie, et si je vous aidais à valoriser la votre ?!
+ La data est la valeur montante de cette décennie, et si je vous aidais à valoriser la votre ?! \
+ \
   Salut, je suis Dolores Valide, data scientist qui peut travailler sur vos sujets de data science
-  mais tout aussi bien sur vos sujets de data analyse, ou encore de business intelligence.
+  mais tout aussi bien sur vos sujets de data analyse, ou encore de business intelligence.\
   Ici vous trouverez mon parcours et mes projets, je vous dévoile ma passion pour la data. 
 
 ## Table des Matières
-- [À propos de moi](#à-propos-de-moi)
+- [Ce que je peux vous apporter](#ce_que_je_peux_vous_apporter)
 - [Compétences Techniques](#compétences-techniques)
     - [Langages de programmation](#langages-de-programmation)
     - [Machine-learning](#machine-learning)
@@ -14,17 +15,25 @@
     - [Base de données](#base-de-données)
     - [Data Engineering](#data-engineering)
     - [Data visualisation](#data-visualisation)
-- [Compétences douces](#compétences-douces)
+- [Compétences générales](#compétences-generales)
+- [Publications](#publications)
 - [Projets](#projets)
     - [Projet 1 : Dashboard de business Intelligence (BI)](#projet-1--business-intelligence)
-    - [Projet 2 : Machine Learning Supervisé](#projet-2--machine-learning-supervisé)
-    - [Projet 3 : Machine Learning Non Supervisé](#projet-3--machine-learning-non-supervisé)
-    - [Projet 4 : Séries Temporelles](#projet-4--séries-temporelles)
-    - [Projet 5 : Projet Avancé (Deep Learning/NLP)](#projet-5--projet-avancé-deep-learningnlp)
+    - [Projet 2 : Dashboard de business Intelligence (BI)](#projet-2--business-intelligence)
+    - [Projet 3 : Machine Learning Supervisé](#projet-3--machine-learning-supervisé)
+    - [Projet 4 : Machine Learning Non Supervisé](#projet-4--machine-learning-non-supervisé)
+    - [Projet 5 : Séries Temporelles](#projet-5--séries-temporelles)
+    - [Projet 6 : Projet Avancé (Deep Learning/NLP)](#projet-6--projet-avancé-deep-learningnlp)
 - [Contact](#contact)
 
-## À propos de moi
+## Ce que je peux vous apporter
 
+✅**Détection d'Insights**
+✅**Aide à la décision**
+✅**Analyse de tendances**
+✅**Résolution de problèmes**
+✅**Esprit critique**
+✅**Amélioration continue**
 
 ## Compétences Techniques
 
@@ -66,19 +75,20 @@ Ce rapport montre les ventes par région, produit, et période, permettant une v
 ### Projet 2 : Business Intelligence (BI)
 - **Description :** Ce projet explore les données de recouvrement de créances, fournissant les KPI clés grâce à des visualisations et des analyses statistiques. 
 - **Compétences :** Power BI
-- ![Aperçu du rapport Power BI](assets/img/KPI_recouvrement.png)
+![Aperçu du rapport Power BI](assets/img/KPI_recouvrement.png)
   
-
 ### Projet 3 : Machine Learning Supervisé
-- **Description :** Dans ce projet, j'ai construit un modèle de régression pour prédire la consommation en énergie de bâtiments en utilisant. Le modèle a été évalué à l'aide de métriques comme [RMSE], [R^2], [MAE]. Différents algorithmes ont été testés : [SVR], [RandomForest], [Elastic Net], [LGBM]
+- **Description :** Dans ce projet, j'ai construit un modèle de régression pour prédire la consommation en énergie de bâtiments en utilisant. Le modèle a été évalué à l'aide de métriques comme [RMSE](#RMSE), [R²(R_2), [MAE](#MAE). Différents algorithmes ont été testés : [SVR](#SVR), [RandomForest](#RandomForest), [Elastic Net](#ElasticNet), [LGBM](#LGBM)
 - **Compétences :** EDA, Scikit-learn, Feature Engineering, Tunning de paramètres, Validation croisée
-- ![Aperçu des résultats de la régression](assets/img/projet_3.png)
+![Aperçu des résultats de la régression](assets/img/projet_3.png)
 - **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/OC-DS-P4-Anticipez-les-besoins-en-consommation-de-batiments/tree/f1629b960ff2629a1dfc09eb2946cf1e948696bb)
 
 ### Projet 3 : Machine Learning Non Supervisé
-- **Description :** Ce projet implique le clustering de [données] en groupes significatifs à l'aide de [K-means/DBSCAN/PCA]. L'analyse a permis d'identifier [insight principal].
-- **Compétences :** Scikit-learn, Clustering, PCA
-- **Lien vers le projet :** [Lien GitHub ou Notebook]
+- **Description :** Ce projet implique le clustering de données clients e-commerce en groupes significatifs à l'aide de K-means/DBSCAN/PCA.
+- **Compétences :** Scikit-learn, Clustering, PCA, RFM
+![Données originales](assets/img/jeux_de_données_ori.png)
+![Aperçu des résultats de la segmentation](assets/img/segmentation_clients.png)
+- **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/tree/main)
 
 ### Projet 4 : Séries Temporelles
 - **Description :** Pour ce projet, j'ai développé un modèle de prévision basé sur des séries temporelles pour [données temporelles]. Le modèle ARIMA/SARIMA a été utilisé pour prédire [cible] avec une précision de [précision].
