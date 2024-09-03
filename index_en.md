@@ -1,8 +1,8 @@
-# My Name - Data Scientist | Data Analyst | Data Enthusiast
+# Dolores Valide - Data Scientist | Data Analyst | Data Enthusiast
 
 Data is the rising value of this decade, and how about I help you make the most of yours?! \
 \
-Hi, I'm My Name, a data scientist who can work on your data science projects, but also on data analysis or business intelligence topics.\
+Hi, I'm Dolores, a data scientist who can work on your data science projects, but also on data analysis or business intelligence topics.\
 Here, you'll find my background and my projects, showcasing my passion for data.
 
 ## Table of Contents
