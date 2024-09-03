@@ -1,4 +1,4 @@
-# [Dolores Valide] - Data Scientist | Data Analyst | Data enthusiastic
+# Dolores Valide - Data Scientist | Data Analyst | Data enthusiastic
 
 Bienvenue sur mon portfolio. Je suis une Data Scientist & Analyst passionné par l'exploration des données et le développement de modèles prédictifs.
 Voici une sélection de mes projets qui démontrent mes compétences en data science, machine learning et visualisation de données.
