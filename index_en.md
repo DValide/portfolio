@@ -5,6 +5,14 @@ Data is the rising value of this decade, and how about I help you make the most 
 Hi, I'm Dolores, a data scientist who can work on your data science projects, but also on data analysis or business intelligence topics.\
 Here, you'll find my background and my projects, showcasing my passion for data.
 
+I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following platforms:
+<p align="left">
+  <a href="mailto:valide.dolores@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/d_valide"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://github.com/Dvalide"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="assets/documents/Cv_data_science_gen.pdf"><img src="https://img.shields.io/badge/-CV-4285F4?style=flat-square&logo=Google%20Drive&logoColor=white"/></a>
+</p>
+
 ## Table of Contents
 - [What I Can Offer You](#what-i-can-offer-you)
 - [Technical Skills](#technical-skills)
@@ -17,16 +25,8 @@ Here, you'll find my background and my projects, showcasing my passion for data.
     - [Project 4: Unsupervised Machine Learning](#project-4--unsupervised-machine-learning)
     - [Project 5: Time Series](#project-5--time-series)
     - [Project 6: Advanced Project (Deep Learning/NLP)](#project-6--advanced-project-deep-learningnlp)
-- [Contact](#contact)
 
 [Version Française](./README.md)
-
-<p align="left">
-  <a href="mailto:valide.dolores@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/d_valide"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://github.com/Dvalide"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="assets/documents/Cv_data_science_gen.pdf"><img src="https://img.shields.io/badge/-CV-4285F4?style=flat-square&logo=Google%20Drive&logoColor=white"/></a>
-</p>
 
 ## What I Can Offer You
 
@@ -100,13 +100,4 @@ This report shows sales by region, product, and period, providing an overview of
 - **Description:** I built a [CNN/RNN] model for [specific task], using [Dataset]. This project showcases my skills in deep learning and natural language processing.
 - **Skills:** TensorFlow/PyTorch, NLP, Deep Learning
 - **Project Link:** [GitHub or Notebook Link]
-
-## Contact
-
-I am always open to new opportunities and collaborations. Feel free to reach out to me through the following platforms:
-
-- **Email:** [valide.dolores@gmail.com](mailto:valide.dolores@gmail.com)
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/d_valide)
-- **GitHub:** [GitHub](https://github.com/Dvalide)
-- **Resume:** [Resume Overview](assets/documents/Cv_data_science_gen.pdf)
   
