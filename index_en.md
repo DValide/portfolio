@@ -5,7 +5,7 @@ Data is the rising value of this decade, and how about I help you make the most 
 Hi, I'm Dolores, a data scientist who can work on your data science projects, but also on data analysis or business intelligence topics.\
 Here, you'll find my background and my projects, showcasing my passion for data.
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following platforms:
+**I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following platforms:**
 <p align="left">
   <a href="mailto:valide.dolores@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/d_valide"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
@@ -85,7 +85,7 @@ This report shows sales by region, product, and period, providing an overview of
 - **Project Link:** [GitHub Link](https://github.com/DValide/OC-DS-P4-Anticipez-les-besoins-en-consommation-de-batiments/tree/f1629b960ff2629a1dfc09eb2946cf1e948696bb)
 
 ### Project 3: Unsupervised Machine Learning
-- **Description:** This project involves clustering e-commerce customer data into meaningful groups using K-means/DBSCAN/PCA.
+- **Description:** This project involves clustering e-commerce customer data into meaningful groups using [K-means/DBSCAN/PCA].(#K-means/DBSCAN/PCA)
 - **Skills:** Scikit-learn, Clustering, PCA, RFM
 ![Original Data Overview](assets/img/jeux_de_données_ori.png)
 ![Customer Segmentation Overview](assets/img/segmentation_clients.png)
