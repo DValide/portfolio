@@ -4,7 +4,9 @@
  \
   Salut, je suis Dolores Valide, data scientist qui peut travailler sur vos sujets de data science
   mais tout aussi bien sur vos sujets de data analyse, ou encore de business intelligence.\
-  Ici vous trouverez mon parcours et mes projets, je vous dévoile ma passion pour la data. 
+  Ici vous trouverez mon parcours et mes projets, je vous dévoile ma passion pour la data. \
+
+  **Je suis toujours ouverte à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter via les plateformes suivantes :**
 
 <p align="left">
   <a href="mailto:valide.dolores@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -103,14 +105,5 @@ Ce rapport montre les ventes par région, produit, et période, permettant une v
 - **Description :** J'ai construit un modèle [CNN/RNN] pour [tâche spécifique], en utilisant [Dataset]. Ce projet montre mes compétences en deep learning et traitement du langage naturel.
 - **Compétences :** TensorFlow/PyTorch, NLP, Deep Learning
 - **Lien vers le projet :** [Lien GitHub ou Notebook]
-
-## Contact
-
-Je suis toujours ouverte à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter via les plateformes suivantes :
-
-- **Email :** [valide.dolores@gmail.com](mailto:valide.dolores@gmail.com)
-- **LinkedIn :** [LinkedIn](www.linkedin.com/in/d-valide)
-- **GitHub :** [GitHub](https://github.com/DValide)
-- **CV :** [Aperçu du CV](assets/documents/Cv_data_science_gen.pdf)
 
 
