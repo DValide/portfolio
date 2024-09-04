@@ -4,7 +4,7 @@
  \
   Salut, je suis Dolores Valide, data scientist qui peut travailler sur vos sujets de data science
   mais tout aussi bien sur vos sujets de data analyse, ou encore de business intelligence.\
-  Ici vous trouverez mon parcours et mes projets, je vous dévoile ma passion pour la data. \
+  Ici vous trouverez mon parcours et mes projets, je vous dévoile ma passion pour la data.
 
   **Je suis toujours ouverte à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter via les plateformes suivantes :**
 
