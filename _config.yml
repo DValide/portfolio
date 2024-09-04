@@ -5,9 +5,5 @@ description: >
   Voici une sélection de mes projets qui démontrent mes compétences en data science, machine learning et visualisation de données.
 show_downloads: true
 
-header_pages:
-  - README.md
-  - index_en.md
-    
 theme: jekyll-theme-minimal
 
