@@ -90,14 +90,4 @@ This report shows sales by region, product, and period, providing an overview of
 ![Original Data Overview](assets/img/jeux_de_données_ori.png)
 ![Customer Segmentation Overview](assets/img/segmentation_clients.png)
 - **Project Link:** [GitHub Link](https://github.com/DValide/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/tree/main)
-
-### Project 4: Time Series
-- **Description:** For this project, I developed a forecast model based on time series for [time series data]. The ARIMA/SARIMA model was used to predict [target] with an accuracy of [accuracy].
-- **Skills:** Python, Statsmodels, Time Series, ARIMA
-- **Project Link:** [GitHub or Notebook Link]
-
-### Project 5: Advanced Project (Deep Learning/NLP)
-- **Description:** I built a [CNN/RNN] model for [specific task], using [Dataset]. This project showcases my skills in deep learning and natural language processing.
-- **Skills:** TensorFlow/PyTorch, NLP, Deep Learning
-- **Project Link:** [GitHub or Notebook Link]
   
