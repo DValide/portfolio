@@ -70,7 +70,7 @@
 ## Projets
 
 ### Projet 1 : Business Intelligence (BI)
-- **Description :** Ce projet explore les données de ventes de SmartFun Telecom Ltd,notemment les données de ventes de forfait téléphoniques, fournissant des insights clés grâce à des visualisations et des analyses statistiques. J'ai utilisé des techniques d'EDA pour découvrir des tendances et des relations cachées dans les données.
+- **Description :** Ce projet explore les données de ventes de SmartFun Telecom Ltd,notemment les données de ventes de forfait téléphoniques, fournissant des insights clés grâce à des visualisations et des analyses statistiques. J'ai utilisé des techniques d'[EDA](#EDA) pour découvrir des tendances et des relations cachées dans les données.
 - **Compétences :** Power BI
  ![Aperçu du rapport Power BI](assets/img/rapport_smart_fun.png)
  ![Aperçu du rapport Power BI](assets/img/analyse_temporelle.png)
@@ -84,26 +84,17 @@ Ce rapport montre les ventes par région, produit, et période, permettant une v
 ![Aperçu du rapport Power BI](assets/img/KPI_recouvrement.png)
   
 ### Projet 3 : Machine Learning Supervisé
-- **Description :** Dans ce projet, j'ai construit un modèle de régression pour prédire la consommation en énergie de bâtiments en utilisant. Le modèle a été évalué à l'aide de métriques comme [RMSE](#RMSE), [R²(R_2), [MAE](#MAE). Différents algorithmes ont été testés : [SVR](#SVR), [RandomForest](#RandomForest), [Elastic Net](#ElasticNet), [LGBM](#LGBM)
+- **Description :** Dans ce projet, j'ai construit un modèle de régression pour prédire la consommation en énergie de bâtiments en utilisant. Le modèle a été évalué à l'aide de métriques comme [RMSE](#RMSE), [R²](R_2), [MAE](#MAE). Différents algorithmes ont été testés : [SVR](#SVR), [RandomForest](#RandomForest), [Elastic Net](#ElasticNet), [LGBM](#LGBM)
 - **Compétences :** EDA, Scikit-learn, Feature Engineering, Tunning de paramètres, Validation croisée
 ![Aperçu des résultats de la régression](assets/img/projet_3.png)
 - **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/OC-DS-P4-Anticipez-les-besoins-en-consommation-de-batiments/tree/f1629b960ff2629a1dfc09eb2946cf1e948696bb)
 
 ### Projet 3 : Machine Learning Non Supervisé
-- **Description :** Ce projet implique le clustering de données clients e-commerce en groupes significatifs à l'aide de K-means/DBSCAN/PCA.
+- **Description :** Ce projet implique le clustering de données clients e-commerce en groupes significatifs à l'aide de [K-means/DBSCAN/PCA](K-means/DBSCAN/PCA).
 - **Compétences :** Scikit-learn, Clustering, PCA, RFM
 ![Données originales](assets/img/jeux_de_données_ori.png)
 ![Aperçu des résultats de la segmentation](assets/img/segmentation_clients.png)
 - **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/tree/main)
 
-### Projet 4 : Séries Temporelles
-- **Description :** Pour ce projet, j'ai développé un modèle de prévision basé sur des séries temporelles pour [données temporelles]. Le modèle ARIMA/SARIMA a été utilisé pour prédire [cible] avec une précision de [précision].
-- **Compétences :** Python, Statsmodels, Séries Temporelles, ARIMA
-- **Lien vers le projet :** [Lien GitHub ou Notebook]
-
-### Projet 5 : Projet Avancé (Deep Learning/NLP)
-- **Description :** J'ai construit un modèle [CNN/RNN] pour [tâche spécifique], en utilisant [Dataset]. Ce projet montre mes compétences en deep learning et traitement du langage naturel.
-- **Compétences :** TensorFlow/PyTorch, NLP, Deep Learning
-- **Lien vers le projet :** [Lien GitHub ou Notebook]
 
 
