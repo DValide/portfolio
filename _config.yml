@@ -4,7 +4,6 @@ description: >
   Bienvenue sur mon portfolio. Je suis une Data Scientist & Analyst passionné par l'exploration des données et le développement de modèles prédictifs.
   Voici une sélection de mes projets qui démontrent mes compétences en data science, machine learning et visualisation de données.
 show_downloads: true
-theme: jekyll-theme-minimal
 
 # Section pour les liens de navigation
 nav_links:
@@ -12,3 +11,6 @@ nav_links:
     url: "/"
   - title: "English"
     url: "/index_en"
+    
+theme: jekyll-theme-minimal
+
