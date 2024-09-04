@@ -5,12 +5,9 @@ description: >
   Voici une sélection de mes projets qui démontrent mes compétences en data science, machine learning et visualisation de données.
 show_downloads: true
 
-# Section pour les liens de navigation
-nav_links:
-  - title: "Français"
-    url: "/"
-  - title: "English"
-    url: "/index_en"
+header_pages:
+  - README.md
+  - index_en.md
     
 theme: jekyll-theme-minimal
 
