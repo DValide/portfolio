@@ -19,12 +19,12 @@ Here, you'll find my background and my projects, showcasing my passion for data.
 - [General Skills](#general-skills)
 - [Publications](#publications)
 - [Projects](#projects)
-    - [Project 1: Business Intelligence Dashboard](#project-1--business-intelligence)
-    - [Project 2: Business Intelligence Dashboard](#project-2--business-intelligence)
-    - [Project 3: Supervised Machine Learning](#project-3--supervised-machine-learning)
-    - [Project 4: Unsupervised Machine Learning](#project-4--unsupervised-machine-learning)
-    - [Project 5: Time Series](#project-5--time-series)
-    - [Project 6: Advanced Project (Deep Learning/NLP)](#project-6--advanced-project-deep-learningnlp)
+    - [Business Intelligence Dashboard](#-business-intelligence)
+    - [Business Intelligence Dashboard](#business-intelligence)
+    - [Supervised Machine Learning](#supervised-machine-learning)
+    - [Unsupervised Machine Learning](#unsupervised-machine-learning)
+    - [Time Series](#time-series)
+    - [Advanced Project (Deep Learning/NLP)](#advanced-project-deep-learningnlp)
 
 [Version Française](./README.md)
 
@@ -64,7 +64,7 @@ Here, you'll find my background and my projects, showcasing my passion for data.
    
 ## Projects
 
-### Project 1: Business Intelligence (BI)
+### Business Intelligence (BI) : Sales data
 - **Description:** This project explores sales data from SmartFun Telecom Ltd, specifically their mobile plan sales, providing key insights through visualizations and statistical analysis. I used EDA techniques to uncover trends and hidden relationships within the data.
 - **Skills:** Power BI
 ![Power BI Report Overview](assets/img/rapport_smart_fun.png)
@@ -73,18 +73,18 @@ Here, you'll find my background and my projects, showcasing my passion for data.
 ![Power BI Comparative Analysis](assets/img/Analyse_comparative.png)
 This report shows sales by region, product, and period, providing an overview of business performance.
 
-### Project 2: Business Intelligence (BI)
+### Business Intelligence (BI) : Debt collection data
 - **Description:** This project explores debt collection data, providing key KPIs through visualizations and statistical analysis.
 - **Skills:** Power BI
 ![Debt Collection KPI Overview](assets/img/KPI_recouvrement.png)
 
-### Project 3: Supervised Machine Learning
+### Supervised Machine Learning
 - **Description:** In this project, I built a regression model to predict the energy consumption of buildings. The model was evaluated using metrics such as [RMSE](#RMSE), [R²](#R2), and [MAE](#MAE). Various algorithms were tested: [SVR](#SVR), [RandomForest](#RandomForest), [Elastic Net](#ElasticNet), [LGBM](#LGBM)
 - **Skills:** EDA, Scikit-learn, Feature Engineering, Parameter Tuning, Cross-Validation
 ![Regression Results Overview](assets/img/projet_3.png)
 - **Project Link:** [GitHub Link](https://github.com/DValide/OC-DS-P4-Anticipez-les-besoins-en-consommation-de-batiments/tree/f1629b960ff2629a1dfc09eb2946cf1e948696bb)
 
-### Project 3: Unsupervised Machine Learning
+### Unsupervised Machine Learning
 - **Description:** This project involves clustering e-commerce customer data into meaningful groups using [K-means/DBSCAN/PCA].(#K-means/DBSCAN/PCA)
 - **Skills:** Scikit-learn, Clustering, PCA, RFM
 ![Original Data Overview](assets/img/jeux_de_données_ori.png)
