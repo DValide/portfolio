@@ -1,4 +1,4 @@
-# Dolores Valide - Data Scientist | Data Analyst | Data enthusiastic
+# Dolores Valide - Data Scientist | Data Analyst | Consultante
 
  La data est la valeur montante de cette décennie, et si je vous aidais à valoriser la votre ?! \
  \
@@ -16,20 +16,21 @@
 
 
 ## Table des Matières
-- [Ce que je peux vous apporter](#ce_que_je_peux_vous_apporter)
+- [Ce que je peux vous apporter](#ce-que-je-peux-vous-apporter)
 - [Compétences Techniques](#compétences-techniques)
-- [Compétences générales](#compétences-generales)
+- [Compétences générales](#compétences-générales)
 - [Publications](#publications)
 - [Projets](#projets)
-    - [Dashboard de business Intelligence (BI)](#projet--business-intelligence)
-    - [Dashboard de business Intelligence (BI)](#projet--business-intelligence)
-    - [Machine Learning Supervisé](#projet--machine-learning-supervisé)
-    - [Machine Learning Non Supervisé](#projet--machine-learning-non-supervisé)
-    - [Séries Temporelles](#projet--séries-temporelles)
+    - [Analyse des accidents routiers en france des mineurs de -10 ans](#analyse-des-accidents-routiers-en-france-des-mineurs-de--10-ans)
+    - [Dashboard d'analyse de ventes de forfaits téléphoniques](#dashboard-danalyse-de-ventes-de-forfaits-téléphoniques)
+    - [Dashboard d'analyse de recouvrement de créances](#dashboard-danalyse-de-recouvrement-de-créances)
+    - [Machine Learning Supervisé](#machine-learning-supervisé)
+    - [Machine Learning Non Supervisé](#machine-learning-non-supervisé)
+    - [Séries Temporelles](#séries-temporelles)
     - [Projet Avancé (Deep Learning/NLP)](#projet--projet-avancé-deep-learningnlp)
 
 [English Version](./index_en.md)
-
+--------------------------------------------------------------
 ## Ce que je peux vous apporter
 
 ✅**Détection d'Insights**
@@ -51,7 +52,8 @@
 | ![Docker Logo](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![Matplotlib Logo](https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white) | |
 | ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Seaborn Logo](https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white) | |
 
-## Comptétences générales
+## Compétences générales
+
  - Modélisation de données
  - Nettoyage de données
  - Feature engineering
@@ -67,7 +69,15 @@
    
 ## Projets
 
-### Business Intelligence (BI) : Données de ventes
+### Analyse des accidents routiers en france des mineurs de -10 ans 
+- **Description :** Ce projet à pour but de  sensibiliser aux dangers de la route pour les plus jeunes. Je procède à une analyse exploratoire dans un premier temps puis je prédirais la gravité d'un accident selon plusieurs facteurs.
+- **Compétences :** [EDA](#EDA), [python](#python), [régréssion supervisée](#régréssion-supervisée)
+- **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/Projet_perso_Accidents_routiers_de_mineurs_de_moins_de_10_ans)
+- ![Aperçu des visualisations](assets/img/nbr_d-accidents_selon_les_conditions_meteos.png)
+  ![Aperçu des visualisations](assets/img/repartition_des_accidents_selon_l-utilisation_d-un_siege_auto.png)
+
+
+### Dashboard d'analyse de ventes de forfaits téléphoniques
 - **Description :** Ce projet explore les données de ventes de SmartFun Telecom Ltd,notemment les données de ventes de forfait téléphoniques, fournissant des insights clés grâce à des visualisations et des analyses statistiques. J'ai utilisé des techniques d'[EDA](#EDA) pour découvrir des tendances et des relations cachées dans les données.
 - **Compétences :** Power BI
  ![Aperçu du rapport Power BI](assets/img/rapport_smart_fun.png)
@@ -76,7 +86,7 @@
  ![Aperçu du rapport Power BI](assets/img/Analyse_comparative.png)
 Ce rapport montre les ventes par région, produit, et période, permettant une vue d'ensemble des performances commerciales.
 
-### Business Intelligence (BI) : Recouvrement de créances
+### Dashboard d'analyse de recouvrement de créances
 - **Description :** Ce projet explore les données de recouvrement de créances, fournissant les KPI clés grâce à des visualisations et des analyses statistiques. 
 - **Compétences :** Power BI
 ![Aperçu du rapport Power BI](assets/img/KPI_recouvrement.png)
