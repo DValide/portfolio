@@ -73,8 +73,8 @@
 - **Description :** Ce projet à pour but de  sensibiliser aux dangers de la route pour les plus jeunes. Je procède à une analyse exploratoire dans un premier temps puis je prédirais la gravité d'un accident selon plusieurs facteurs.
 - **Compétences :** [EDA](#EDA), [python](#python), [régréssion supervisée](#régréssion-supervisée)
 - **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/Projet_perso_Accidents_routiers_de_mineurs_de_moins_de_10_ans)
-- ![Aperçu des visualisations](assets/img/nbr_d-accidents_selon_les_conditions_meteos.png)
-  ![Aperçu des visualisations](assets/img/repartition_des_accidents_selon_l-utilisation_d-un_siege_auto.png)
+- ![Nombre d'accidents selon les conditions métérologiques](assets/img/nbr_d-accidents_selon_les_conditions_meteos.png)
+  ![Répartition des accidents selon l'utilisation d'un siege auto](assets/img/repartition_des_accidents_selon_l-utilisation_d-un_siege_auto.png)
 
 
 ### Dashboard d'analyse de ventes de forfaits téléphoniques
