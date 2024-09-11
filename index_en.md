@@ -1,4 +1,4 @@
-# Dolores Valide - Data Scientist | Data Analyst | Data Enthusiast
+# Dolores Valide - Data Scientist | Data Analyst | Consultant
 
 Data is the rising value of this decade, and how about I help you make the most of yours?! \
 \
@@ -6,6 +6,8 @@ Hi, I'm Dolores, a data scientist who can work on your data science projects, bu
 Here, you'll find my background and my projects, showcasing my passion for data.
 
 **I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following platforms:**
+
+
 <p align="left">
   <a href="mailto:valide.dolores@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/d_valide"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
@@ -19,14 +21,16 @@ Here, you'll find my background and my projects, showcasing my passion for data.
 - [General Skills](#general-skills)
 - [Publications](#publications)
 - [Projects](#projects)
-    - [Business Intelligence Dashboard](#-business-intelligence)
-    - [Business Intelligence Dashboard](#business-intelligence)
+    - [Analysis of road accidents in France for minors under 10 years old](#analysis-of-road-accidents-in-france-for-minors-under-10-years)
+    - [Phone plan sales analysis dashboard](#phone-plan-sales-analysis-dashboard)
+    - [Debt recovery analysis dashboard](#debt-recovery-analysis-dashboard)
     - [Supervised Machine Learning](#supervised-machine-learning)
     - [Unsupervised Machine Learning](#unsupervised-machine-learning)
     - [Time Series](#time-series)
     - [Advanced Project (Deep Learning/NLP)](#advanced-project-deep-learningnlp)
 
 [Version Française](./README.md)
+------------------------------------------------------------------
 
 ## What I Can Offer You
 
@@ -50,6 +54,7 @@ Here, you'll find my background and my projects, showcasing my passion for data.
 | ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Seaborn Logo](https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white) | |
 
 ## General Skills
+
 - Data Modeling
 - Data Cleaning
 - Feature Engineering
@@ -60,11 +65,19 @@ Here, you'll find my background and my projects, showcasing my passion for data.
 - Agile
 
 ## Publications
+
 **Medium:** [Data Science vs. Algorithmic Trading: A Clash of Technological Titans](https://medium.com/@valide.dolores/data-science-vs-trading-algorithmique-un-duel-de-titans-technologiques-0d6acab938b6)
    
 ## Projects
 
-### Business Intelligence (BI) : Sales data
+### Analysis of road accidents in France for minors under 10 years old
+- **Description :** This project aims to raise awareness of the dangers of the road for young people. I first carry out an exploratory analysis and then predict the severity of an accident based on several factors.
+- **Compétences :** [EDA](#EDA), [python](#python),[supervised regression](#supervised-regression)
+- - **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/Projet_perso_Accidents_routiers_de_mineurs_de_moins_de_10_ans)
+  ![Number of accidents according to weather conditions](assets/img/nbr_d-accidents_selon_les_conditions_meteos.png)
+  ![Distribution of accidents according to use of a car seat](assets/img/repartition_des_accidents_selon_l-utilisation_d-un_siege_auto.png)
+
+### Phone plan sales analysis dashboard
 - **Description:** This project explores sales data from SmartFun Telecom Ltd, specifically their mobile plan sales, providing key insights through visualizations and statistical analysis. I used EDA techniques to uncover trends and hidden relationships within the data.
 - **Skills:** Power BI
 ![Power BI Report Overview](assets/img/rapport_smart_fun.png)
@@ -73,7 +86,7 @@ Here, you'll find my background and my projects, showcasing my passion for data.
 ![Power BI Comparative Analysis](assets/img/Analyse_comparative.png)
 This report shows sales by region, product, and period, providing an overview of business performance.
 
-### Business Intelligence (BI) : Debt collection data
+### Debt recovery analysis dashboard
 - **Description:** This project explores debt collection data, providing key KPIs through visualizations and statistical analysis.
 - **Skills:** Power BI
 ![Debt Collection KPI Overview](assets/img/KPI_recouvrement.png)
