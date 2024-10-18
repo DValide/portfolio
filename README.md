@@ -84,9 +84,9 @@
 - **Description :** Ce projet explore les données de ventes de SmartFun Telecom Ltd,notemment les données de ventes de forfait téléphoniques, fournissant des insights clés grâce à des visualisations et des analyses statistiques. J'ai utilisé des techniques d'[EDA](#EDA) pour découvrir des tendances et des relations cachées dans les données.
 - **Compétences :** Power BI
  ![Aperçu du rapport Power BI](assets/img/rapport_smart_fun.png)
- ![Aperçu du rapport Power BI](assets/img/analyse_temporelle.png)
- ![Aperçu du rapport Power BI](assets/img/analyse_spatiale.png)
- ![Aperçu du rapport Power BI](assets/img/Analyse_comparative.png)
+ ![Aperçu du rapport Power BI](assets/img/rapport_smart_fun_temporel.png)
+ ![Aperçu du rapport Power BI](assets/img/rapport_smart_fun_spatial.png)
+ ![Aperçu du rapport Power BI](assets/img/rapport_smart_fun_comparatif.png)
 Ce rapport montre les ventes par région, produit, et période, permettant une vue d'ensemble des performances commerciales.
 
 ### Dashboard d'analyse de recouvrement de créances
