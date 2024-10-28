@@ -11,7 +11,7 @@
   <a href="mailto:valide.dolores@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/d_valide"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://github.com/Dvalide"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="assets/documents/Cv_data_science_gen.pdf"><img src="https://img.shields.io/badge/-CV-4285F4?style=flat-square&logo=Google%20Drive&logoColor=white"/></a>
+  <a href="assets/documents/CV_consultante_data_bi.pdf"><img src="https://img.shields.io/badge/-CV-4285F4?style=flat-square&logo=Google%20Drive&logoColor=white"/></a>
 </p>
 
 
