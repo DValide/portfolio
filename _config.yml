@@ -7,5 +7,9 @@ description: >
   interactifs et automations de reporting pour des décisions éclairées.
 show_downloads: false
 google_analytics: [G-NV6SJFJCCV]
-
-
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: [assets/css/custom.css]
