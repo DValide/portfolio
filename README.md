@@ -11,6 +11,8 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 
 
 [📩 Contactez-moi pour vos autres projets data](mailto:dolores.data.consulting@gmail.com)
+ 
+<img src=""assets/img/photo_cv.jpg"" width="30%">
 
 
 
@@ -43,6 +45,93 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 ✅**Analyse d’insights et recommandations concrètes**
 
 ✅**Méthodologie sur-mesure et approche centrée métier**
+
+<section id="competences">
+  <h2>💻 Mes compétences techniques</h2>
+
+  <div class="skills-grid">
+
+    <!-- Data Engineering -->
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <p>Python</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
+      <p>AWS</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black" alt="Hadoop">
+      <p>Hadoop</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white" alt="PySpark">
+      <p>PySpark</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+      <p>Docker</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
+      <p>Git</p>
+    </div>
+
+    <!-- Data Analysis -->
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white" alt="Kibana">
+      <p>Kibana</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI">
+      <p>Power BI</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel">
+      <p>Excel</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+      <p>Pandas</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white" alt="Matplotlib">
+      <p>Matplotlib</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white" alt="Seaborn">
+      <p>Seaborn</p>
+    </div>
+
+    <!-- Data Computing & Bases de Données -->
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+      <p>Scikit-Learn</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <p>TensorFlow</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+      <p>MySQL</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <p>PostgreSQL</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google%20cloud&logoColor=white" alt="Google Cloud Platform">
+      <p>GCP</p>
+    </div>
+    <div class="skill">
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow">
+      <p>Airflow</p>
+    </div>
+
+  </div>
+</section>
+
 
 ## Compétences techniques
 
@@ -126,14 +215,14 @@ Ce rapport montre les ventes par région, produit, et période, permettant une v
 ### Machine Learning Supervisé
 - **Description :** Dans ce projet, j'ai construit un modèle de régression pour prédire la consommation en énergie de bâtiments en utilisant. Le modèle a été évalué à l'aide de métriques comme [RMSE](#RMSE), [R²](R_2), [MAE](#MAE). Différents algorithmes ont été testés : [SVR](#SVR), [RandomForest](#RandomForest), [Elastic Net](#ElasticNet), [LGBM](#LGBM)
 - **Compétences :** EDA, Scikit-learn, Feature Engineering, Tunning de paramètres, Validation croisée
-![Aperçu des résultats de la régression](assets/img/projet_3.png)
+<img src="assets/img/projet_3.png)" alt="Aperçu des résultats de la régression"  width="40%">
 - **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/OC-DS-P4-Anticipez-les-besoins-en-consommation-de-batiments/tree/f1629b960ff2629a1dfc09eb2946cf1e948696bb)
 
 ### Machine Learning Non Supervisé
 - **Description :** Ce projet implique le clustering de données clients e-commerce en groupes significatifs à l'aide de [K-means/DBSCAN/PCA](K-means/DBSCAN/PCA).
 - **Compétences :** Scikit-learn, Clustering, PCA, RFM
-![Données originales](assets/img/jeux_de_données_ori.png)
-![Aperçu des résultats de la segmentation](assets/img/segmentation_clients.png)
+<img src="assets/img/jeux_de_données_ori.png" alt="Données originales" width="40%">
+<img src="assets/img/segmentation_clients.png" alt="Aperçu des résultats de la segmentation" width="40%">
 - **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/tree/main)
 
 ### Contact
