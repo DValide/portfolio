@@ -1,7 +1,7 @@
  Animée par la curiosité pour les données et leur **potentiel** pour transformer les décisions, **j’accompagne les entreprises à valoriser leurs informations**.
 
 <p align="left"> 
-<img src="assets/img/photo_pro_fond_bleu.png" width="20%">
+<img src="assets/img/photo_pro_fond_bleu.png" width="20%" style="border-radius: 50%;">
 </p>
 
 J’effectue des **audits de données précis**, conçois des **dashboards interactifs** et automatise les flux pour fournir des **insights clairs et actionnables**, qui aident à la prise de décision et à l’amélioration des performances.
@@ -47,41 +47,32 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 
 ✅**Méthodologie sur-mesure et approche centrée métier**
 
-<section id="competences">
-  <h2>💻 Mes compétences techniques</h2>
+## Compétences techniques
 
   <div class="skills-grid">
 
     <!-- Data Engineering -->
     <div class="skill">
       <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
-      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
-      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black" alt="Hadoop">
-     
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white" alt="PySpark">
-      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
-      
     </div>
-
     <!-- Data Analysis -->
     <div class="skill">
       <img src="https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white" alt="Kibana">
-      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI">
@@ -89,21 +80,16 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel">
-      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
-      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white" alt="Matplotlib">
-      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white" alt="Seaborn">
-      
     </div>
-
     <!-- Data Computing & Bases de Données -->
     <div class="skill">
       <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
@@ -119,32 +105,14 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
-      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google%20cloud&logoColor=white" alt="Google Cloud Platform">
-      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow">
-      
     </div>
-
   </div>
-</section>
-
-
-## Compétences techniques
-
-| **Data Engineering**  | **Data Analysis**  | **Data Computing & Bases de Données**  |
-|-----------------------|--------------------|----------------------------------------|
-| ![Python Logo](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Kibana Logo](https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white) | ![Scikit-Learn Logo](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
-| ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white) | ![Power BI Logo](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) |![TensorFlow Logo](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
-| ![AWS Logo](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |![Excel Logo](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | ![MySQL Logo](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| ![Hadoop Logo](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black) | ![Pandas Logo](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) | ![PostgreSQL Logo](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| ![Pyspark Logo](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white) | ![NumPy Logo](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | ![GCP Logo](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white) |
-| ![Docker Logo](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![Matplotlib Logo](https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white) | ![Airflow Logo](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)|
-| ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Seaborn Logo](https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white) | |
 
 ## Compétences générales
 
@@ -184,6 +152,7 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 
 
 ### Analyse des accidents routiers en france des mineurs de -10 ans 
+
 - **Description :** Ce projet à pour but de sensibiliser aux dangers de la route pour les plus jeunes. Je procède à une analyse exploratoire dans un premier temps puis je prédirais la gravité d'un accident selon plusieurs facteurs.
 - **Compétences :** [EDA](#EDA), [python](#python), [régréssion supervisée](#régréssion-supervisée)
 - **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/Projet_perso_Accidents_routiers_de_mineurs_de_moins_de_10_ans)
