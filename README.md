@@ -1,5 +1,3 @@
-# Dolores Valide — Consultante Data | Audit & Visualisation | Automatisation des flux
-
  Animée par la curiosité pour les données et leur **potentiel** pour transformer les décisions, **j’accompagne les entreprises à valoriser leurs informations**.
 J’effectue des **audits de données précis**, conçois des **dashboards interactifs** et automatise les flux pour fournir des **insights clairs et actionnables**, qui aident à la prise de décision et à l’amélioration des performances.
 Chaque mission est pour moi l’occasion d’apprendre, de comprendre le métier de mes clients et de **créer des solutions sur-mesure, concrètes et impactantes**.
@@ -46,7 +44,7 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 
 ✅**Méthodologie sur-mesure et approche centrée métier**
 
-## Compétences Techniques
+## Compétences techniques
 
 | **Data Engineering**  | **Data Analysis**  | **Data Computing & Bases de Données**  |
 |-----------------------|--------------------|----------------------------------------|
@@ -76,7 +74,7 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 
 ### Audit et création d'un tableau de bords de suivi des interventions et travaux secteur Industrie
 - **Contexte :** Détection des points de blocages dans la base de données. L'idée était de faciliter la communication entre les services de production et la direction. Gagner du temps lors des préparations de réunions de coordinations et mettre en évidence les défaillance dans la modélisation de données initiale.
-- **Compétences :** Power BI Service 
+- **Compétences :** Power BI Service, SQL , Power Query , DAX
 - **Actions réalisées :**
    > - Audit de la base de données, avec rapport sur la qualité des données.
    > - Création d'un dashboard intéractif Power BI qui suit les travaux et interventions par équipes ou bâtiments.
@@ -85,7 +83,7 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
    > - Mise en avant des limites des logiciels utilisés et proposition de solutions concrètes scalables.
    > - Création d'une documentation détaillée. 
 
-<img src="assets/img/Tableau_de_bord_industrie.png" width="40%"> | <img src="assets/img/exemple_documentation.png" width="40%">
+<img src="assets/img/Tableau_de_bord_industrie.png"> | <img src="assets/img/exemple_documentation.png">
 
 ### Dashboard d’analyse des ventes internationales
 
@@ -107,7 +105,7 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 ### Dashboard d'analyse de ventes de forfaits téléphoniques
 - **Description :** Ce projet explore les données de ventes de SmartFun Telecom Ltd,notemment les données de ventes de forfait téléphoniques, fournissant des insights clés grâce à des visualisations et des analyses statistiques. J'ai utilisé des techniques d'[EDA](#EDA) pour découvrir des tendances et des relations cachées dans les données.
 - **Compétences :** Power BI
-<img src="assets/img/rapport_smart_fun.png" alt="Aperçu du rapport Power BI" width="40%">
+
 <img src="assets/img/rapport_smart_fun_temporel.png" alt="Aperçu du rapport Power BI" width="40%">
 <img src="assets/img/rapport_smart_fun_spatial.png" alt="Aperçu du rapport Power BI" width="40%">
 <img src="assets/img/rapport_smart_fun_comparatif.png" alt="Aperçu du rapport Power BI" width="40%">
