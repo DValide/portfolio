@@ -1,6 +1,13 @@
  Animée par la curiosité pour les données et leur **potentiel** pour transformer les décisions, **j’accompagne les entreprises à valoriser leurs informations**.
+
+<p align="left"> 
+<img src="assets/img/photo_pro_fond_bleu.png" width="20%">
+</p>
+
 J’effectue des **audits de données précis**, conçois des **dashboards interactifs** et automatise les flux pour fournir des **insights clairs et actionnables**, qui aident à la prise de décision et à l’amélioration des performances.
 Chaque mission est pour moi l’occasion d’apprendre, de comprendre le métier de mes clients et de **créer des solutions sur-mesure, concrètes et impactantes**.
+
+[Contactez-moi pour vos autres projets data](mailto:dolores.data.consulting@gmail.com)
 
 ## Stop au temps perdu !
 
@@ -8,11 +15,7 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 👉 Ce temps pourrait être économisé grâce à l’**audit de vos données** et la mise en place de **dashboards automatisés**.
 
 [Demander un audit de vos données (2–4 jours)](mailto:dolores.data.consulting@gmail.com?subject=Audit%20Data%202-4%20jours)
-[Contactez-moi pour vos autres projets data](mailto:dolores.data.consulting@gmail.com)
 
-<p align="left"> 
-<img src="assets/img/photo_cv.jpg" width="30%">
-</p>
 
 
 
@@ -29,8 +32,6 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
     - [Dashboard d'analyse de recouvrement de créances](#dashboard-danalyse-de-recouvrement-de-créances)
     - [Machine Learning Supervisé](#machine-learning-supervisé)
     - [Machine Learning Non Supervisé](#machine-learning-non-supervisé)
-    - [Séries Temporelles](#séries-temporelles)
-    - [Projet Avancé (Deep Learning/NLP)](#projet--projet-avancé-deep-learningnlp)
 
 [English Version](./index_en.md)
 --------------------------------------------------------------
@@ -194,10 +195,11 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 ### Dashboard d'analyse de ventes de forfaits téléphoniques
 - **Description :** Ce projet explore les données de ventes de SmartFun Telecom Ltd,notemment les données de ventes de forfait téléphoniques, fournissant des insights clés grâce à des visualisations et des analyses statistiques. J'ai utilisé des techniques d'[EDA](#EDA) pour découvrir des tendances et des relations cachées dans les données.
 - **Compétences :** Power BI
-
+<p align="center">
 <img src="assets/img/rapport_smart_fun_temporel.png" alt="Aperçu du rapport Power BI" width="40%">
 <img src="assets/img/rapport_smart_fun_spatial.png" alt="Aperçu du rapport Power BI" width="40%">
 <img src="assets/img/rapport_smart_fun_comparatif.png" alt="Aperçu du rapport Power BI" width="40%">
+</p>
 
 Ce rapport montre les ventes par région, produit, et période, permettant une vue d'ensemble des performances commerciales.
 
@@ -221,8 +223,10 @@ Ce rapport montre les ventes par région, produit, et période, permettant une v
 ### Machine Learning Non Supervisé
 - **Description :** Ce projet implique le clustering de données clients e-commerce en groupes significatifs à l'aide de [K-means/DBSCAN/PCA](K-means/DBSCAN/PCA).
 - **Compétences :** Scikit-learn, Clustering, PCA, RFM
+<p align="center">
 <img src="assets/img/jeux_de_données_ori.png" alt="Données originales" width="40%">
 <img src="assets/img/segmentation_clients.png" alt="Aperçu des résultats de la segmentation" width="40%">
+</p>
 - **Lien vers le projet :** [Lien GitHub](https://github.com/DValide/OC-DS-P5-Segmentez-des-clients-d-un-site-e-commerce/tree/main)
 
 ### Contact
