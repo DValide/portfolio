@@ -180,7 +180,9 @@ Ce rapport montre les ventes par région, produit, et période, permettant une v
     > - Automatisation du reporting quotidien
 - **Résultats :**
 -  Temps de reporting divisé par 3, meilleure visibilité des actions prioritaires
+<p align="center">
 <img src="assets/img/KPI_recouvrement.png" alt="Aperçu du rapport Power BI" width="40%">
+</p>
   
 ### Machine Learning Supervisé
 - **Description :** Dans ce projet, j'ai construit un modèle de régression pour prédire la consommation en énergie de bâtiments en utilisant. Le modèle a été évalué à l'aide de métriques comme [RMSE](#RMSE), [R²](R_2), [MAE](#MAE). Différents algorithmes ont été testés : [SVR](#SVR), [RandomForest](#RandomForest), [Elastic Net](#ElasticNet), [LGBM](#LGBM)
