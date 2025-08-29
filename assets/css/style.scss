@@ -1,0 +1,36 @@
+---
+---
+@import "jekyll-theme-cayman";
+
+
+
+$link-color: #1a73e8;
+
+body {
+  font-family: "Segoe UI", Roboto, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: #1a73e8; /* bleu professionnel */
+  font-weight: 700;
+}
+
+a {
+  color: #e63946; /* rouge moderne pour CTA */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Encadré type "bloc attention" */
+.highlight {
+  background: #f1f5f9;
+  border-left: 4px solid #1a73e8;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+}
