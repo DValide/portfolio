@@ -7,12 +7,12 @@ Chaque mission est pour moi l’occasion d’apprendre, de comprendre le métier
 Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel** ou à **préparer manuellement des rapports**.  
 👉 Ce temps pourrait être économisé grâce à l’**audit de vos données** et la mise en place de **dashboards automatisés**.
 
-[🚀 Demander un audit de vos données (2–4 jours)](mailto:dolores.data.consulting@gmail.com?subject=Audit%20Data%202-4%20jours)
+[Demander un audit de vos données (2–4 jours)](mailto:dolores.data.consulting@gmail.com?subject=Audit%20Data%202-4%20jours)
+[Contactez-moi pour vos autres projets data](mailto:dolores.data.consulting@gmail.com)
 
-
-[📩 Contactez-moi pour vos autres projets data](mailto:dolores.data.consulting@gmail.com)
- 
-<img src=""assets/img/photo_cv.jpg"" width="30%">
+<p align="left"> 
+<img src="assets/img/photo_cv.jpg" width="30%">
+</p>
 
 
 
@@ -54,79 +54,79 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
     <!-- Data Engineering -->
     <div class="skill">
       <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
-      <p>Python</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
-      <p>AWS</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black" alt="Hadoop">
-      <p>Hadoop</p>
+     
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white" alt="PySpark">
-      <p>PySpark</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-      <p>Docker</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
-      <p>Git</p>
+      
     </div>
 
     <!-- Data Analysis -->
     <div class="skill">
       <img src="https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white" alt="Kibana">
-      <p>Kibana</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI">
-      <p>Power BI</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel">
-      <p>Excel</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
-      <p>Pandas</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=Matplotlib&logoColor=white" alt="Matplotlib">
-      <p>Matplotlib</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-Seaborn-3776AB?logo=Seaborn&logoColor=white" alt="Seaborn">
-      <p>Seaborn</p>
+      
     </div>
 
     <!-- Data Computing & Bases de Données -->
     <div class="skill">
       <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-      <p>Scikit-Learn</p>
+     
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-      <p>TensorFlow</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-      <p>MySQL</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <p>PostgreSQL</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google%20cloud&logoColor=white" alt="Google Cloud Platform">
-      <p>GCP</p>
+      
     </div>
     <div class="skill">
       <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow">
-      <p>Airflow</p>
+      
     </div>
 
   </div>
