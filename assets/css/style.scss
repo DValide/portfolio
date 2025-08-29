@@ -1,3 +1,22 @@
 ---
 ---
 @import "jekyll-theme-cayman";
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 25px;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.skill img {
+  max-width: 80px;
+  margin-bottom: 0.5rem;
+  border-radius: 8px; /* optionnel pour un look plus doux */
+}
+
+.skill p {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #333;
+}
