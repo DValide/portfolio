@@ -34,12 +34,15 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 ## Ce que je peux vous apporter
 
 ### ✅Audit de vos données et identification des points de friction
-    - Une entreprise constate que ses rapports mensuels prennent plusieurs heures à être préparés. En 3 jours, j’ai analysé leurs sources de données, détecté les anomalies et proposé une structuration optimisée, permettant un gain de temps de 50% chaque mois.
-    - Pour un projet e-commerce, les données clients étaient dispersées et incohérentes. Après nettoyage et structuration, elles étaient prêtes pour l’analyse et la segmentation, améliorant la qualité des insights obtenus
+- Une entreprise constate que ses rapports mensuels prennent plusieurs heures à être préparés. En 3 jours, j’ai analysé leurs sources de données, détecté les anomalies et proposé une structuration optimisée, permettant un gain de temps de 50% chaque mois.
+- Pour un projet e-commerce, les données clients étaient dispersées et incohérentes. Après nettoyage et structuration, elles étaient prêtes pour l’analyse et la segmentation, améliorant la qualité des insights obtenus
+    
 ### ✅Visualisation et reporting clairs pour vos KPIs
-    - Pour un client télécom, j’ai mis en place un dashboard Power BI regroupant les ventes par région, produit et période. Résultat : la direction pouvait visualiser les KPIs clés en un coup d’œil et prendre des décisions plus rapides.
+- Pour un client télécom, j’ai mis en place un dashboard Power BI regroupant les ventes par région, produit et période. Résultat : la direction pouvait visualiser les KPIs clés en un coup d’œil et prendre des décisions plus rapides.
+    
 ### ✅Automatisation des flux de données pour gagner du temps
-    - Une société de recouvrement perdait du temps à générer ses rapports hebdomadaires. J’ai automatisé l’extraction et la consolidation des données, réduisant la tâche de plusieurs heures à quelques minutes.
+- Une société de recouvrement perdait du temps à générer ses rapports hebdomadaires. J’ai automatisé l’extraction et la consolidation des données, réduisant la tâche de plusieurs heures à quelques minutes.
+    
 ### ✅Analyse d’insights et recommandations concrètes
 ### ✅Méthodologie sur-mesure et approche centrée métier
 
