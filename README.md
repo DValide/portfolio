@@ -34,8 +34,8 @@ Chaque mois, des heures sont gaspillées à **recopier des chiffres dans Excel**
 ## Ce que je peux vous apporter
 
 ### ✅Audit de vos données et identification des points de friction
-- Une entreprise constate que ses rapports mensuels prennent plusieurs heures à être préparés. En 3 jours, j’ai analysé leurs sources de données, détecté les anomalies et proposé une structuration optimisée, permettant un gain de temps de 50% chaque mois.
-- Pour un projet e-commerce, les données clients étaient dispersées et incohérentes. Après nettoyage et structuration, elles étaient prêtes pour l’analyse et la segmentation, améliorant la qualité des insights obtenus
+- Le service logistique d’une entreprise passait en moyenne 3 heures chaque semaines à consolider manuellement les livraisons et les stocks provenant de trois systèmes différents. En 3 jours, j’ai réalisé un audit complet des sources de données : identification des doublons, incohérences et lacunes, et proposition d’un plan précis de centralisation et d’automatisation des rapports. Ce plan a ensuite servi à créer un dashboard et un processus centralisé, réduisant le temps de production des rapports de plusieurs heures par semaines, soit un gain de temps de 50%.
+- Pour un site e-commerce, les données clients étaient dispersées entre plusieurs fichiers et bases, avec des doublons et des incohérences. J’ai réalisé un audit complet pour identifier les sources de problèmes et proposer un plan de nettoyage et de structuration des données. Suite à la mise en place de ce plan, les données étaient centralisées et prêtes pour l’analyse, permettant de segmenter efficacement la clientèle et d’améliorer la pertinence des insights pour les campagnes marketing.
     
 ### ✅Visualisation et reporting clairs pour vos KPIs
 - Pour un client télécom, j’ai mis en place un dashboard Power BI regroupant les ventes par région, produit et période. Résultat : la direction pouvait visualiser les KPIs clés en un coup d’œil et prendre des décisions plus rapides.
