@@ -1,7 +1,7 @@
 <p align="left"> 
 <img src="assets/img/photo_pro_fond_bleu.png" width="20%" style="border-radius: 50%;">
 </p>
-Animée par la curiosité pour les données et leur **potentiel** pour transformer les décisions, **j’accompagne les entreprises à valoriser leurs informations**.
+J’aide les entreprises à gagner du temps et à prendre de meilleures décisions en analysant leurs données, en identifiant les problèmes et en construisant des dashboards et automatisations clairs et opérationnels.
 
 J’effectue des **audits de données précis**, conçois des **dashboards interactifs** et automatise les flux pour fournir des **insights clairs et actionnables**, qui aident à la prise de décision et à l’amélioration des performances.
 Chaque mission est pour moi l’occasion d’apprendre, de comprendre le métier de mes clients et de **créer des solutions sur-mesure, concrètes et impactantes**.
